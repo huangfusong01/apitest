@@ -44,6 +44,7 @@ if __name__ == '__main__':
         print('邮件已发送！请查收')
     except smtplib.SMTPException as Error:
         print("jenkisn")
+        print("0001")
         print(Error.decode('UTF-8'))
         print("Error:邮件发送失败")
 
