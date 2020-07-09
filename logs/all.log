@@ -9709,3 +9709,392 @@
 2020-07-09 11:42:55,341 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 03:42:19 GMT', 'Content-Type': 'text/html', 'Content-Length': '5602', 'Last-Modified': 'Wed, 08 Jul 2020 01:30:35 GMT', 'Connection': 'keep-alive', 'ETag': '"5f0521bb-15e2"', 'Accept-Ranges': 'bytes'}
 2020-07-09 11:42:55,371 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====><!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" href=./favicon.ico type=image/x-icon><title>Parcels System</title><script src=./lib/gt.js></script><link href=http://at.alicdn.com/t/font_1530113_vbnkki1qyn.css rel=stylesheet type=text/css><link href=/static/css/chunk-00011340.d2587d2d.css rel=prefetch><link href=/static/css/chunk-024e2f4c.51e3cd52.css rel=prefetch><link href=/static/css/chunk-08f83f43.267fc8ed.css rel=prefetch><link href=/static/css/chunk-0bed8262.824a4ef8.css rel=prefetch><link href=/static/css/chunk-11c41ca4.09b7223e.css rel=prefetch><link href=/static/css/chunk-12c72f68.50aa4c00.css rel=prefetch><link href=/static/css/chunk-1387bc0d.e7ec614c.css rel=prefetch><link href=/static/css/chunk-14396131.893940b6.css rel=prefetch><link href=/static/css/chunk-1a1067a4.93796f87.css rel=prefetch><link href=/static/css/chunk-2881017a.56901671.css rel=prefetch><link href=/static/css/chunk-2aae6b70.1dc62192.css rel=prefetch><link href=/static/css/chunk-2b4ea90f.624dc3bb.css rel=prefetch><link href=/static/css/chunk-2f3cbca6.1731ab97.css rel=prefetch><link href=/static/css/chunk-382bf58c.a9da56bf.css rel=prefetch><link href=/static/css/chunk-3ee84a8a.688834bc.css rel=prefetch><link href=/static/css/chunk-497a7f78.f708c170.css rel=prefetch><link href=/static/css/chunk-49ca8cef.7e31abf7.css rel=prefetch><link href=/static/css/chunk-4ee1e05c.4fd076e0.css rel=prefetch><link href=/static/css/chunk-4f5061e4.eacd0872.css rel=prefetch><link href=/static/css/chunk-5a5af224.48f74c3b.css rel=prefetch><link href=/static/css/chunk-5b220de6.cdad3991.css rel=prefetch><link href=/static/css/chunk-5bb58970.6d5dffee.css rel=prefetch><link href=/static/css/chunk-62369311.1703feac.css rel=prefetch><link href=/static/css/chunk-63436f7b.dfa6b162.css rel=prefetch><link href=/static/css/chunk-6837fd9e.a60194b4.css rel=prefetch><link href=/static/css/chunk-6db25287.2246048b.css rel=prefetch><link href=/static/css/chunk-70035a80.8fb96920.css rel=prefetch><link href=/static/css/chunk-720fa500.8c7a04c8.css rel=prefetch><link href=/static/css/chunk-8fd07a0a.99edbb40.css rel=prefetch><link href=/static/css/chunk-92bf28fe.ba0c757b.css rel=prefetch><link href=/static/css/chunk-93a196c0.59930340.css rel=prefetch><link href=/static/css/chunk-b0e4167e.0ba80a8f.css rel=prefetch><link href=/static/css/chunk-c1cf0d36.2cc2e8cc.css rel=prefetch><link href=/static/css/chunk-d610aa8a.4fd076e0.css rel=prefetch><link href=/static/css/chunk-fe5a8006.589719e1.css rel=prefetch><link href=/static/js/chunk-00011340.7ef206f5.js rel=prefetch><link href=/static/js/chunk-024e2f4c.29ea19c1.js rel=prefetch><link href=/static/js/chunk-08f83f43.4a90c8c1.js rel=prefetch><link href=/static/js/chunk-0bed8262.f47fb2e9.js rel=prefetch><link href=/static/js/chunk-11c41ca4.5e37262c.js rel=prefetch><link href=/static/js/chunk-12c72f68.e5463571.js rel=prefetch><link href=/static/js/chunk-1387bc0d.5724505d.js rel=prefetch><link href=/static/js/chunk-14396131.4ee33e56.js rel=prefetch><link href=/static/js/chunk-1a1067a4.923d90e5.js rel=prefetch><link href=/static/js/chunk-2881017a.b17b5ced.js rel=prefetch><link href=/static/js/chunk-2aae6b70.4afc4c0a.js rel=prefetch><link href=/static/js/chunk-2b4ea90f.4c23bb64.js rel=prefetch><link href=/static/js/chunk-2d0b2168.10206229.js rel=prefetch><link href=/static/js/chunk-2d229d78.49f52f60.js rel=prefetch><link href=/static/js/chunk-2f3cbca6.bd888eb7.js rel=prefetch><link href=/static/js/chunk-382bf58c.8b57ed58.js rel=prefetch><link href=/static/js/chunk-3ee84a8a.e3f927ac.js rel=prefetch><link href=/static/js/chunk-497a7f78.733d632e.js rel=prefetch><link href=/static/js/chunk-49ca8cef.56b7b65e.js rel=prefetch><link href=/static/js/chunk-4ee1e05c.897d85ee.js rel=prefetch><link href=/static/js/chunk-4f5061e4.0f43cf02.js rel=prefetch><link href=/static/js/chunk-5a5af224.dbc4200f.js rel=prefetch><link href=/static/js/chunk-5b220de6.963b5e5e.js rel=prefetch><link href=/static/js/chunk-5bb58970.23a9f0e7.js rel=prefetch><link href=/static/js/chunk-62369311.66006916.js rel=prefetch><link href=/static/js/chunk-63436f7b.0b8f0684.js rel=prefetch><link href=/static/js/chunk-6837fd9e.4f210491.js rel=prefetch><link href=/static/js/chunk-6db25287.07b6aaa5.js rel=prefetch><link href=/static/js/chunk-70035a80.881d0e5c.js rel=prefetch><link href=/static/js/chunk-720fa500.8cfbe637.js rel=prefetch><link href=/static/js/chunk-8fd07a0a.0943feb5.js rel=prefetch><link href=/static/js/chunk-92bf28fe.cc8e30e4.js rel=prefetch><link href=/static/js/chunk-93a196c0.82c53e09.js rel=prefetch><link href=/static/js/chunk-b0e4167e.71452ea7.js rel=prefetch><link href=/static/js/chunk-c1cf0d36.204cf206.js rel=prefetch><link href=/static/js/chunk-d610aa8a.e6cb3367.js rel=prefetch><link href=/static/js/chunk-fe5a8006.beea55df.js rel=prefetch><link href=/static/css/app.0367f524.css rel=preload as=style><link href=/static/css/chunk-vendors.4df58c7d.css rel=preload as=style><link href=/static/js/app.07c649f6.js rel=preload as=script><link href=/static/js/chunk-vendors.b9278507.js rel=preload as=script><link href=/static/css/chunk-vendors.4df58c7d.css rel=stylesheet><link href=/static/css/app.0367f524.css rel=stylesheet></head><body><noscript><strong>We're sorry but Parcels System doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=/static/js/chunk-vendors.b9278507.js></script><script src=/static/js/app.07c649f6.js></script></body></html>
 2020-07-09 11:42:55,371 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====><!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" href=./favicon.ico type=image/x-icon><title>Parcels System</title><script src=./lib/gt.js></script><link href=http://at.alicdn.com/t/font_1530113_vbnkki1qyn.css rel=stylesheet type=text/css><link href=/static/css/chunk-00011340.d2587d2d.css rel=prefetch><link href=/static/css/chunk-024e2f4c.51e3cd52.css rel=prefetch><link href=/static/css/chunk-08f83f43.267fc8ed.css rel=prefetch><link href=/static/css/chunk-0bed8262.824a4ef8.css rel=prefetch><link href=/static/css/chunk-11c41ca4.09b7223e.css rel=prefetch><link href=/static/css/chunk-12c72f68.50aa4c00.css rel=prefetch><link href=/static/css/chunk-1387bc0d.e7ec614c.css rel=prefetch><link href=/static/css/chunk-14396131.893940b6.css rel=prefetch><link href=/static/css/chunk-1a1067a4.93796f87.css rel=prefetch><link href=/static/css/chunk-2881017a.56901671.css rel=prefetch><link href=/static/css/chunk-2aae6b70.1dc62192.css rel=prefetch><link href=/static/css/chunk-2b4ea90f.624dc3bb.css rel=prefetch><link href=/static/css/chunk-2f3cbca6.1731ab97.css rel=prefetch><link href=/static/css/chunk-382bf58c.a9da56bf.css rel=prefetch><link href=/static/css/chunk-3ee84a8a.688834bc.css rel=prefetch><link href=/static/css/chunk-497a7f78.f708c170.css rel=prefetch><link href=/static/css/chunk-49ca8cef.7e31abf7.css rel=prefetch><link href=/static/css/chunk-4ee1e05c.4fd076e0.css rel=prefetch><link href=/static/css/chunk-4f5061e4.eacd0872.css rel=prefetch><link href=/static/css/chunk-5a5af224.48f74c3b.css rel=prefetch><link href=/static/css/chunk-5b220de6.cdad3991.css rel=prefetch><link href=/static/css/chunk-5bb58970.6d5dffee.css rel=prefetch><link href=/static/css/chunk-62369311.1703feac.css rel=prefetch><link href=/static/css/chunk-63436f7b.dfa6b162.css rel=prefetch><link href=/static/css/chunk-6837fd9e.a60194b4.css rel=prefetch><link href=/static/css/chunk-6db25287.2246048b.css rel=prefetch><link href=/static/css/chunk-70035a80.8fb96920.css rel=prefetch><link href=/static/css/chunk-720fa500.8c7a04c8.css rel=prefetch><link href=/static/css/chunk-8fd07a0a.99edbb40.css rel=prefetch><link href=/static/css/chunk-92bf28fe.ba0c757b.css rel=prefetch><link href=/static/css/chunk-93a196c0.59930340.css rel=prefetch><link href=/static/css/chunk-b0e4167e.0ba80a8f.css rel=prefetch><link href=/static/css/chunk-c1cf0d36.2cc2e8cc.css rel=prefetch><link href=/static/css/chunk-d610aa8a.4fd076e0.css rel=prefetch><link href=/static/css/chunk-fe5a8006.589719e1.css rel=prefetch><link href=/static/js/chunk-00011340.7ef206f5.js rel=prefetch><link href=/static/js/chunk-024e2f4c.29ea19c1.js rel=prefetch><link href=/static/js/chunk-08f83f43.4a90c8c1.js rel=prefetch><link href=/static/js/chunk-0bed8262.f47fb2e9.js rel=prefetch><link href=/static/js/chunk-11c41ca4.5e37262c.js rel=prefetch><link href=/static/js/chunk-12c72f68.e5463571.js rel=prefetch><link href=/static/js/chunk-1387bc0d.5724505d.js rel=prefetch><link href=/static/js/chunk-14396131.4ee33e56.js rel=prefetch><link href=/static/js/chunk-1a1067a4.923d90e5.js rel=prefetch><link href=/static/js/chunk-2881017a.b17b5ced.js rel=prefetch><link href=/static/js/chunk-2aae6b70.4afc4c0a.js rel=prefetch><link href=/static/js/chunk-2b4ea90f.4c23bb64.js rel=prefetch><link href=/static/js/chunk-2d0b2168.10206229.js rel=prefetch><link href=/static/js/chunk-2d229d78.49f52f60.js rel=prefetch><link href=/static/js/chunk-2f3cbca6.bd888eb7.js rel=prefetch><link href=/static/js/chunk-382bf58c.8b57ed58.js rel=prefetch><link href=/static/js/chunk-3ee84a8a.e3f927ac.js rel=prefetch><link href=/static/js/chunk-497a7f78.733d632e.js rel=prefetch><link href=/static/js/chunk-49ca8cef.56b7b65e.js rel=prefetch><link href=/static/js/chunk-4ee1e05c.897d85ee.js rel=prefetch><link href=/static/js/chunk-4f5061e4.0f43cf02.js rel=prefetch><link href=/static/js/chunk-5a5af224.dbc4200f.js rel=prefetch><link href=/static/js/chunk-5b220de6.963b5e5e.js rel=prefetch><link href=/static/js/chunk-5bb58970.23a9f0e7.js rel=prefetch><link href=/static/js/chunk-62369311.66006916.js rel=prefetch><link href=/static/js/chunk-63436f7b.0b8f0684.js rel=prefetch><link href=/static/js/chunk-6837fd9e.4f210491.js rel=prefetch><link href=/static/js/chunk-6db25287.07b6aaa5.js rel=prefetch><link href=/static/js/chunk-70035a80.881d0e5c.js rel=prefetch><link href=/static/js/chunk-720fa500.8cfbe637.js rel=prefetch><link href=/static/js/chunk-8fd07a0a.0943feb5.js rel=prefetch><link href=/static/js/chunk-92bf28fe.cc8e30e4.js rel=prefetch><link href=/static/js/chunk-93a196c0.82c53e09.js rel=prefetch><link href=/static/js/chunk-b0e4167e.71452ea7.js rel=prefetch><link href=/static/js/chunk-c1cf0d36.204cf206.js rel=prefetch><link href=/static/js/chunk-d610aa8a.e6cb3367.js rel=prefetch><link href=/static/js/chunk-fe5a8006.beea55df.js rel=prefetch><link href=/static/css/app.0367f524.css rel=preload as=style><link href=/static/css/chunk-vendors.4df58c7d.css rel=preload as=style><link href=/static/js/app.07c649f6.js rel=preload as=script><link href=/static/js/chunk-vendors.b9278507.js rel=preload as=script><link href=/static/css/chunk-vendors.4df58c7d.css rel=stylesheet><link href=/static/css/app.0367f524.css rel=stylesheet></head><body><noscript><strong>We're sorry but Parcels System doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=/static/js/chunk-vendors.b9278507.js></script><script src=/static/js/app.07c649f6.js></script></body></html>
+2020-07-09 13:28:30,744 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>客户下单
+2020-07-09 13:28:30,744 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>客户下单
+2020-07-09 13:28:30,745 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>post
+2020-07-09 13:28:30,745 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>post
+2020-07-09 13:28:30,746 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://api.parcels.tech/eship-api/v1/orders
+2020-07-09 13:28:30,746 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://api.parcels.tech/eship-api/v1/orders
+2020-07-09 13:28:30,746 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"apiName": "F1910704","apiToken": "5a975fc2fe3e15efb54651198c027b11","apiOrders":[{"productName": "","productCode":"EUSW-SZ","destinationNo": "GB","takeAwayType": "ESHIP","referenceNo":"","orderFromType": "API","goods": [{"nameEn": "apple","name": "\xe8\x8b\xb9\xe6\x9e\x9c","quantity": 1,"reportPrice": 2,"boxWeight": 5,"boxLength": 1,"boxWidth": 1,"boxHeight": 1,"boxCount": 1}],"deliveryAddress":{"consignee":"JESPER DAUGBJERG","province":"Colorado","city":"Denver","address":"12313213PACKSTATIO 15313","postcode":"TA21 8QT","cellphoneNo":"+1 (437) 982-","houseNo":"15313"},"senderAddress":{"sender":"\xe5\xb0\x8f\xe4\xb8\x89","province":"\xe6\xb9\x96\xe5\x8c\x97\xe7\x9c\x81","city":"\xe6\xad\xa6\xe6\xb1\x89\xe5\xb8\x82","address":"\xe5\x85\x89\xe8\xb0\xb7\xe5\xa4\xa7\xe9\x81\x93\xe6\x80\xbb\xe9\x83\xa8\xe5\x9b\xbd\xe9\x99\x85","postcode":"535300","cellphoneNo":"+1 (437) 982-6730","countryCode":"CN"}}]}'
+2020-07-09 13:28:30,746 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"apiName": "F1910704","apiToken": "5a975fc2fe3e15efb54651198c027b11","apiOrders":[{"productName": "","productCode":"EUSW-SZ","destinationNo": "GB","takeAwayType": "ESHIP","referenceNo":"","orderFromType": "API","goods": [{"nameEn": "apple","name": "\xe8\x8b\xb9\xe6\x9e\x9c","quantity": 1,"reportPrice": 2,"boxWeight": 5,"boxLength": 1,"boxWidth": 1,"boxHeight": 1,"boxCount": 1}],"deliveryAddress":{"consignee":"JESPER DAUGBJERG","province":"Colorado","city":"Denver","address":"12313213PACKSTATIO 15313","postcode":"TA21 8QT","cellphoneNo":"+1 (437) 982-","houseNo":"15313"},"senderAddress":{"sender":"\xe5\xb0\x8f\xe4\xb8\x89","province":"\xe6\xb9\x96\xe5\x8c\x97\xe7\x9c\x81","city":"\xe6\xad\xa6\xe6\xb1\x89\xe5\xb8\x82","address":"\xe5\x85\x89\xe8\xb0\xb7\xe5\xa4\xa7\xe9\x81\x93\xe6\x80\xbb\xe9\x83\xa8\xe5\x9b\xbd\xe9\x99\x85","postcode":"535300","cellphoneNo":"+1 (437) 982-6730","countryCode":"CN"}}]}'
+2020-07-09 13:28:30,747 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:30,747 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:30,748 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:30,748 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:30,749 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:30,749 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:30,749 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:30,749 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:30,749 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:30,749 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:30,750 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:54 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Content-Length': '553', 'Connection': 'keep-alive', 'Set-Cookie': 'JSESSIONID=8623b30e-e127-481e-ad65-333c354138e3;domain=parcels.tech;path=/;HttpOnly'}
+2020-07-09 13:28:30,750 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:54 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Content-Length': '553', 'Connection': 'keep-alive', 'Set-Cookie': 'JSESSIONID=8623b30e-e127-481e-ad65-333c354138e3;domain=parcels.tech;path=/;HttpOnly'}
+2020-07-09 13:28:30,751 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{
+	"fail":0,
+	"failOrders":[],
+	"flag":true,
+	"msg":"",
+	"success":1,
+	"successOrders":[
+		{
+			"deliveryCompany":"不固定派送商",
+			"deliveryNumber":"",
+			"id":"80808027732db2020173320b66946af1",
+			"insideNumber":"FEISZ1720375904YQ",
+			"pdfError":null,
+			"pdfPath":"http://customer.parcels.tech/label-internal/v1/label/internal/order/FEISZ1720375904YQ/pdf",
+			"productId":"2c93ece0678e129b0167a55c42440125",
+			"referenceNo":"",
+			"sheetApi":true,
+			"supplyItemId":"2c93ece064df04190164df6590500010",
+			"update":false
+		}
+	],
+	"total":1
+}
+2020-07-09 13:28:30,751 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{
+	"fail":0,
+	"failOrders":[],
+	"flag":true,
+	"msg":"",
+	"success":1,
+	"successOrders":[
+		{
+			"deliveryCompany":"不固定派送商",
+			"deliveryNumber":"",
+			"id":"80808027732db2020173320b66946af1",
+			"insideNumber":"FEISZ1720375904YQ",
+			"pdfError":null,
+			"pdfPath":"http://customer.parcels.tech/label-internal/v1/label/internal/order/FEISZ1720375904YQ/pdf",
+			"productId":"2c93ece0678e129b0167a55c42440125",
+			"referenceNo":"",
+			"sheetApi":true,
+			"supplyItemId":"2c93ece064df04190164df6590500010",
+			"update":false
+		}
+	],
+	"total":1
+}
+2020-07-09 13:28:30,755 - D:\PyProjects\test\test_case\test_case.py[line:33] - INFO: 保存 order_id-05f4eeae-c1a5-11ea-91eb-309c23d0a562=>80808027732db2020173320b66946af1 到全局变量池
+2020-07-09 13:28:30,755 - D:\PyProjects\test\test_case\test_case.py[line:33] - INFO: 保存 order_id-05f4eeae-c1a5-11ea-91eb-309c23d0a562=>80808027732db2020173320b66946af1 到全局变量池
+2020-07-09 13:28:31,059 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>操作登录
+2020-07-09 13:28:31,059 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>操作登录
+2020-07-09 13:28:31,060 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>post
+2020-07-09 13:28:31,060 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>post
+2020-07-09 13:28:31,064 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://sales.parcels.tech/author/v1/subject/login
+2020-07-09 13:28:31,064 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://sales.parcels.tech/author/v1/subject/login
+2020-07-09 13:28:31,065 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"username":"jing","password":"parcels123"}'
+2020-07-09 13:28:31,065 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"username":"jing","password":"parcels123"}'
+2020-07-09 13:28:31,066 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:31,066 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:31,067 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:31,067 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:31,068 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:31,068 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:31,069 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:31,069 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:31,069 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:31,069 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:31,070 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:55 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Set-Cookie': 'rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Wed, 08-Jul-2020 05:27:54 GMT'}
+2020-07-09 13:28:31,070 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:55 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Set-Cookie': 'rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Wed, 08-Jul-2020 05:27:54 GMT'}
+2020-07-09 13:28:31,070 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{"msg":"LOGIN_SUCCESS","total":0,"flag":true,"rows":[]}
+
+2020-07-09 13:28:31,070 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{"msg":"LOGIN_SUCCESS","total":0,"flag":true,"rows":[]}
+
+2020-07-09 13:28:31,071 - D:\PyProjects\test\common\interfance.py[line:73] - INFO: 断言成功,实际值:LOGIN_SUCCESS 等于预期值:LOGIN_SUCCESS
+2020-07-09 13:28:31,071 - D:\PyProjects\test\common\interfance.py[line:73] - INFO: 断言成功,实际值:LOGIN_SUCCESS 等于预期值:LOGIN_SUCCESS
+2020-07-09 13:28:31,826 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>小货称重
+2020-07-09 13:28:31,826 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>小货称重
+2020-07-09 13:28:31,826 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>put
+2020-07-09 13:28:31,826 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>put
+2020-07-09 13:28:31,827 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://operation.parcels.tech/operation/v1/weighingInspection/updateOrder
+2020-07-09 13:28:31,827 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://operation.parcels.tech/operation/v1/weighingInspection/updateOrder
+2020-07-09 13:28:31,827 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"weighType": "ONE_BOX", "actualWeight": 5, "orderId":"80808027732db2020173320b66946af1"}'
+2020-07-09 13:28:31,827 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"weighType": "ONE_BOX", "actualWeight": 5, "orderId":"80808027732db2020173320b66946af1"}'
+2020-07-09 13:28:31,828 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:31,828 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:31,828 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:31,828 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:31,829 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:31,829 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:31,830 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:31,830 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:31,831 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:31,831 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:31,832 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:55 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Content-Length': '1914', 'Connection': 'keep-alive'}
+2020-07-09 13:28:31,832 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:55 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Content-Length': '1914', 'Connection': 'keep-alive'}
+2020-07-09 13:28:31,833 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{
+	"code":null,
+	"flag":true,
+	"msg":"验货成功",
+	"obj":{
+		"actualWeight":5.0,
+		"appraisement":null,
+		"customServiceStaffName":"卢静",
+		"customServiceStaffNickName":"JING",
+		"customServiceStaffPhone":"16620979979",
+		"customServiceStaffQq":"",
+		"customerCode":"F1910704",
+		"customerId":"2c93ece56e0d7c27016e1ab549dc0532",
+		"customerLoginId":"18871174012",
+		"destinationName":"英国",
+		"destinationNo":"GB",
+		"finaProblem":"余额不足",
+		"operateOrderBoxDtos":[
+			{
+				"boxInsideNumber":"FEISZ1720375904YQ-1",
+				"count":1,
+				"height":1,
+				"id":"80808027732db2020173320b669c6af4",
+				"length":1,
+				"operateHeight":1,
+				"operateLength":1,
+				"operateOrderGoodsDtos":[
+					{
+						"boxId":"80808027732db2020173320b669c6af4",
+						"id":"80808027732db2020173320b669d6af5",
+						"name":"苹果",
+						"nameEn":"apple",
+						"quantity":1,
+						"reportPrice":2.0,
+						"weight":5.0
+					}
+				],
+				"operateWeight":5.0,
+				"operateWidth":1,
+				"operationComplete":false,
+				"orderId":"80808027732db2020173320b66946af1",
+				"organizationId":"40288829605386c8016053ce73a30002",
+				"volumeWeight":0.0,
+				"volumeWeightRatio":6000.0,
+				"warehouseId":"40288829633a3c0101633a73c8010003",
+				"weight":5.0,
+				"width":1
+			}
+		],
+		"orderType":null,
+		"postCode":null,
+		"problemTypes":[
+			"余额不足"
+		],
+		"productCargoType":"GENERAL",
+		"productName":"欧洲商务包裹  限制0.0 kg ~ 2000.0kg",
+		"productOrganizationId":"40288829605386c8016053ce73a30002",
+		"salesStaffName":"张居尧",
+		"salesStaffPhone":"13603091407",
+		"salesStaffQq":"",
+		"simpleCompanyName":"测试废帐号",
+		"status":"SIGN",
+		"statusDesc":"物流商已收货",
+		"supportMethod":"SUPPORT_MULTI",
+		"temporaryDetainState":false,
+		"volumeWeightRatio":6000.0,"productCargoTypeI18n":"普货","statusI18n":"物流商已收货","supportMethodI18n":"一票多件"
+	},
+	"rows":[],
+	"total":0
+}
+2020-07-09 13:28:31,833 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{
+	"code":null,
+	"flag":true,
+	"msg":"验货成功",
+	"obj":{
+		"actualWeight":5.0,
+		"appraisement":null,
+		"customServiceStaffName":"卢静",
+		"customServiceStaffNickName":"JING",
+		"customServiceStaffPhone":"16620979979",
+		"customServiceStaffQq":"",
+		"customerCode":"F1910704",
+		"customerId":"2c93ece56e0d7c27016e1ab549dc0532",
+		"customerLoginId":"18871174012",
+		"destinationName":"英国",
+		"destinationNo":"GB",
+		"finaProblem":"余额不足",
+		"operateOrderBoxDtos":[
+			{
+				"boxInsideNumber":"FEISZ1720375904YQ-1",
+				"count":1,
+				"height":1,
+				"id":"80808027732db2020173320b669c6af4",
+				"length":1,
+				"operateHeight":1,
+				"operateLength":1,
+				"operateOrderGoodsDtos":[
+					{
+						"boxId":"80808027732db2020173320b669c6af4",
+						"id":"80808027732db2020173320b669d6af5",
+						"name":"苹果",
+						"nameEn":"apple",
+						"quantity":1,
+						"reportPrice":2.0,
+						"weight":5.0
+					}
+				],
+				"operateWeight":5.0,
+				"operateWidth":1,
+				"operationComplete":false,
+				"orderId":"80808027732db2020173320b66946af1",
+				"organizationId":"40288829605386c8016053ce73a30002",
+				"volumeWeight":0.0,
+				"volumeWeightRatio":6000.0,
+				"warehouseId":"40288829633a3c0101633a73c8010003",
+				"weight":5.0,
+				"width":1
+			}
+		],
+		"orderType":null,
+		"postCode":null,
+		"problemTypes":[
+			"余额不足"
+		],
+		"productCargoType":"GENERAL",
+		"productName":"欧洲商务包裹  限制0.0 kg ~ 2000.0kg",
+		"productOrganizationId":"40288829605386c8016053ce73a30002",
+		"salesStaffName":"张居尧",
+		"salesStaffPhone":"13603091407",
+		"salesStaffQq":"",
+		"simpleCompanyName":"测试废帐号",
+		"status":"SIGN",
+		"statusDesc":"物流商已收货",
+		"supportMethod":"SUPPORT_MULTI",
+		"temporaryDetainState":false,
+		"volumeWeightRatio":6000.0,"productCargoTypeI18n":"普货","statusI18n":"物流商已收货","supportMethodI18n":"一票多件"
+	},
+	"rows":[],
+	"total":0
+}
+2020-07-09 13:28:31,864 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>操作登出
+2020-07-09 13:28:31,864 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>操作登出
+2020-07-09 13:28:31,865 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>get
+2020-07-09 13:28:31,865 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>get
+2020-07-09 13:28:31,865 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://operation.parcels.tech/customer/v1/logout
+2020-07-09 13:28:31,865 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://operation.parcels.tech/customer/v1/logout
+2020-07-09 13:28:31,866 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>None
+2020-07-09 13:28:31,866 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>None
+2020-07-09 13:28:31,867 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:31,867 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:31,867 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:31,867 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:31,868 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:31,868 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:31,868 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:31,868 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:31,868 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:31,868 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:31,869 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:55 GMT', 'Content-Type': 'text/html', 'Content-Length': '4466', 'Last-Modified': 'Wed, 08 Jul 2020 01:31:10 GMT', 'Connection': 'keep-alive', 'ETag': '"5f0521de-1172"', 'Accept-Ranges': 'bytes'}
+2020-07-09 13:28:31,869 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:55 GMT', 'Content-Type': 'text/html', 'Content-Length': '4466', 'Last-Modified': 'Wed, 08 Jul 2020 01:31:10 GMT', 'Connection': 'keep-alive', 'ETag': '"5f0521de-1172"', 'Accept-Ranges': 'bytes'}
+2020-07-09 13:28:31,869 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====><!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" href=./favicon.ico type=image/x-icon><title>Parcels System</title><script src=./lib/gt.js></script><link href=http://at.alicdn.com/t/font_1530113_vbnkki1qyn.css rel=stylesheet type=text/css><link href=/static/css/chunk-08124d20.5debe3bf.css rel=prefetch><link href=/static/css/chunk-0a0ff183.fd711473.css rel=prefetch><link href=/static/css/chunk-0fbc8bdd.88d86757.css rel=prefetch><link href=/static/css/chunk-106a4e53.8fb96920.css rel=prefetch><link href=/static/css/chunk-112d01fe.32f4c2db.css rel=prefetch><link href=/static/css/chunk-142731d6.17e7d614.css rel=prefetch><link href=/static/css/chunk-20b2d4ca.f3b12be4.css rel=prefetch><link href=/static/css/chunk-23a69d47.00beac7d.css rel=prefetch><link href=/static/css/chunk-32a62732.d2587d2d.css rel=prefetch><link href=/static/css/chunk-3544c0f4.32f4c2db.css rel=prefetch><link href=/static/css/chunk-40bdf51f.bd4bf57e.css rel=prefetch><link href=/static/css/chunk-4ed87da2.1688255d.css rel=prefetch><link href=/static/css/chunk-5b6bc2bf.7f9a4827.css rel=prefetch><link href=/static/css/chunk-5c9252a2.b1c96aa3.css rel=prefetch><link href=/static/css/chunk-5d3d12e7.d5b74a98.css rel=prefetch><link href=/static/css/chunk-656e3870.00beac7d.css rel=prefetch><link href=/static/css/chunk-6655966b.f1bb5ea8.css rel=prefetch><link href=/static/css/chunk-70ef8d07.824a4ef8.css rel=prefetch><link href=/static/css/chunk-733113e0.e72fc938.css rel=prefetch><link href=/static/css/chunk-76e625a8.b8d20332.css rel=prefetch><link href=/static/css/chunk-7d571b7c.99edbb40.css rel=prefetch><link href=/static/css/chunk-84f6732c.00beac7d.css rel=prefetch><link href=/static/css/chunk-a0e16e2e.50aa4c00.css rel=prefetch><link href=/static/css/chunk-d6c75a18.b738d137.css rel=prefetch><link href=/static/css/chunk-f4ed904a.6a750791.css rel=prefetch><link href=/static/js/chunk-08124d20.e64d12d1.js rel=prefetch><link href=/static/js/chunk-0a0ff183.f4e6dd8c.js rel=prefetch><link href=/static/js/chunk-0fbc8bdd.7c95e5b1.js rel=prefetch><link href=/static/js/chunk-106a4e53.0e71910a.js rel=prefetch><link href=/static/js/chunk-112d01fe.9b96ad92.js rel=prefetch><link href=/static/js/chunk-142731d6.1835bd1d.js rel=prefetch><link href=/static/js/chunk-20b2d4ca.935cf6ff.js rel=prefetch><link href=/static/js/chunk-23a69d47.ee3bc29b.js rel=prefetch><link href=/static/js/chunk-2d0b2168.b1c81146.js rel=prefetch><link href=/static/js/chunk-32a62732.5a67f1ed.js rel=prefetch><link href=/static/js/chunk-3544c0f4.3fd1ed79.js rel=prefetch><link href=/static/js/chunk-40bdf51f.3f4696be.js rel=prefetch><link href=/static/js/chunk-4ed87da2.b3240e5c.js rel=prefetch><link href=/static/js/chunk-55d81988.3c3c4ac3.js rel=prefetch><link href=/static/js/chunk-5b6bc2bf.6f4302b3.js rel=prefetch><link href=/static/js/chunk-5c9252a2.b37999e5.js rel=prefetch><link href=/static/js/chunk-5d3d12e7.96670f6e.js rel=prefetch><link href=/static/js/chunk-656e3870.73766b34.js rel=prefetch><link href=/static/js/chunk-6655966b.7d101026.js rel=prefetch><link href=/static/js/chunk-70ef8d07.72229896.js rel=prefetch><link href=/static/js/chunk-733113e0.78012dcc.js rel=prefetch><link href=/static/js/chunk-76e625a8.b4d74215.js rel=prefetch><link href=/static/js/chunk-7d571b7c.4b11f5ce.js rel=prefetch><link href=/static/js/chunk-7ee68ae6.927062ac.js rel=prefetch><link href=/static/js/chunk-84f6732c.3883c878.js rel=prefetch><link href=/static/js/chunk-a0e16e2e.8aebaaf5.js rel=prefetch><link href=/static/js/chunk-c3aa7e3c.d88551b3.js rel=prefetch><link href=/static/js/chunk-d6c75a18.0cf0571e.js rel=prefetch><link href=/static/js/chunk-f4ed904a.0e1576d8.js rel=prefetch><link href=/static/css/app.32d06248.css rel=preload as=style><link href=/static/css/chunk-vendors.37fec0b3.css rel=preload as=style><link href=/static/js/app.a4a4f8e0.js rel=preload as=script><link href=/static/js/chunk-vendors.03e2bf96.js rel=preload as=script><link href=/static/css/chunk-vendors.37fec0b3.css rel=stylesheet><link href=/static/css/app.32d06248.css rel=stylesheet></head><body><noscript><strong>We're sorry but Parcels System doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=/static/js/chunk-vendors.03e2bf96.js></script><script src=/static/js/app.a4a4f8e0.js></script></body></html>
+2020-07-09 13:28:31,869 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====><!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" href=./favicon.ico type=image/x-icon><title>Parcels System</title><script src=./lib/gt.js></script><link href=http://at.alicdn.com/t/font_1530113_vbnkki1qyn.css rel=stylesheet type=text/css><link href=/static/css/chunk-08124d20.5debe3bf.css rel=prefetch><link href=/static/css/chunk-0a0ff183.fd711473.css rel=prefetch><link href=/static/css/chunk-0fbc8bdd.88d86757.css rel=prefetch><link href=/static/css/chunk-106a4e53.8fb96920.css rel=prefetch><link href=/static/css/chunk-112d01fe.32f4c2db.css rel=prefetch><link href=/static/css/chunk-142731d6.17e7d614.css rel=prefetch><link href=/static/css/chunk-20b2d4ca.f3b12be4.css rel=prefetch><link href=/static/css/chunk-23a69d47.00beac7d.css rel=prefetch><link href=/static/css/chunk-32a62732.d2587d2d.css rel=prefetch><link href=/static/css/chunk-3544c0f4.32f4c2db.css rel=prefetch><link href=/static/css/chunk-40bdf51f.bd4bf57e.css rel=prefetch><link href=/static/css/chunk-4ed87da2.1688255d.css rel=prefetch><link href=/static/css/chunk-5b6bc2bf.7f9a4827.css rel=prefetch><link href=/static/css/chunk-5c9252a2.b1c96aa3.css rel=prefetch><link href=/static/css/chunk-5d3d12e7.d5b74a98.css rel=prefetch><link href=/static/css/chunk-656e3870.00beac7d.css rel=prefetch><link href=/static/css/chunk-6655966b.f1bb5ea8.css rel=prefetch><link href=/static/css/chunk-70ef8d07.824a4ef8.css rel=prefetch><link href=/static/css/chunk-733113e0.e72fc938.css rel=prefetch><link href=/static/css/chunk-76e625a8.b8d20332.css rel=prefetch><link href=/static/css/chunk-7d571b7c.99edbb40.css rel=prefetch><link href=/static/css/chunk-84f6732c.00beac7d.css rel=prefetch><link href=/static/css/chunk-a0e16e2e.50aa4c00.css rel=prefetch><link href=/static/css/chunk-d6c75a18.b738d137.css rel=prefetch><link href=/static/css/chunk-f4ed904a.6a750791.css rel=prefetch><link href=/static/js/chunk-08124d20.e64d12d1.js rel=prefetch><link href=/static/js/chunk-0a0ff183.f4e6dd8c.js rel=prefetch><link href=/static/js/chunk-0fbc8bdd.7c95e5b1.js rel=prefetch><link href=/static/js/chunk-106a4e53.0e71910a.js rel=prefetch><link href=/static/js/chunk-112d01fe.9b96ad92.js rel=prefetch><link href=/static/js/chunk-142731d6.1835bd1d.js rel=prefetch><link href=/static/js/chunk-20b2d4ca.935cf6ff.js rel=prefetch><link href=/static/js/chunk-23a69d47.ee3bc29b.js rel=prefetch><link href=/static/js/chunk-2d0b2168.b1c81146.js rel=prefetch><link href=/static/js/chunk-32a62732.5a67f1ed.js rel=prefetch><link href=/static/js/chunk-3544c0f4.3fd1ed79.js rel=prefetch><link href=/static/js/chunk-40bdf51f.3f4696be.js rel=prefetch><link href=/static/js/chunk-4ed87da2.b3240e5c.js rel=prefetch><link href=/static/js/chunk-55d81988.3c3c4ac3.js rel=prefetch><link href=/static/js/chunk-5b6bc2bf.6f4302b3.js rel=prefetch><link href=/static/js/chunk-5c9252a2.b37999e5.js rel=prefetch><link href=/static/js/chunk-5d3d12e7.96670f6e.js rel=prefetch><link href=/static/js/chunk-656e3870.73766b34.js rel=prefetch><link href=/static/js/chunk-6655966b.7d101026.js rel=prefetch><link href=/static/js/chunk-70ef8d07.72229896.js rel=prefetch><link href=/static/js/chunk-733113e0.78012dcc.js rel=prefetch><link href=/static/js/chunk-76e625a8.b4d74215.js rel=prefetch><link href=/static/js/chunk-7d571b7c.4b11f5ce.js rel=prefetch><link href=/static/js/chunk-7ee68ae6.927062ac.js rel=prefetch><link href=/static/js/chunk-84f6732c.3883c878.js rel=prefetch><link href=/static/js/chunk-a0e16e2e.8aebaaf5.js rel=prefetch><link href=/static/js/chunk-c3aa7e3c.d88551b3.js rel=prefetch><link href=/static/js/chunk-d6c75a18.0cf0571e.js rel=prefetch><link href=/static/js/chunk-f4ed904a.0e1576d8.js rel=prefetch><link href=/static/css/app.32d06248.css rel=preload as=style><link href=/static/css/chunk-vendors.37fec0b3.css rel=preload as=style><link href=/static/js/app.a4a4f8e0.js rel=preload as=script><link href=/static/js/chunk-vendors.03e2bf96.js rel=preload as=script><link href=/static/css/chunk-vendors.37fec0b3.css rel=stylesheet><link href=/static/css/app.32d06248.css rel=stylesheet></head><body><noscript><strong>We're sorry but Parcels System doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=/static/js/chunk-vendors.03e2bf96.js></script><script src=/static/js/app.a4a4f8e0.js></script></body></html>
+2020-07-09 13:28:32,036 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>财务登录
+2020-07-09 13:28:32,036 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>财务登录
+2020-07-09 13:28:32,061 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>post
+2020-07-09 13:28:32,061 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>post
+2020-07-09 13:28:32,062 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://finance.parcels.tech/author/v1/subject/login
+2020-07-09 13:28:32,062 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://finance.parcels.tech/author/v1/subject/login
+2020-07-09 13:28:32,062 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"username":"lenazhang","password":"parcels123"}'
+2020-07-09 13:28:32,062 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"username":"lenazhang","password":"parcels123"}'
+2020-07-09 13:28:32,063 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:32,063 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:32,063 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:32,063 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:32,064 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:32,064 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:32,064 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:32,064 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:32,064 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:32,064 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:32,067 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:56 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Set-Cookie': 'rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Wed, 08-Jul-2020 05:27:56 GMT, JSESSIONID=081d4edd-acf0-4a1d-adf7-8d4a3968e226;domain=parcels.tech;path=/;HttpOnly'}
+2020-07-09 13:28:32,067 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:56 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Set-Cookie': 'rememberMe=deleteMe; Path=/; Max-Age=0; Expires=Wed, 08-Jul-2020 05:27:56 GMT, JSESSIONID=081d4edd-acf0-4a1d-adf7-8d4a3968e226;domain=parcels.tech;path=/;HttpOnly'}
+2020-07-09 13:28:32,068 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{"msg":"LOGIN_SUCCESS","total":0,"flag":true,"rows":[]}
+
+2020-07-09 13:28:32,068 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{"msg":"LOGIN_SUCCESS","total":0,"flag":true,"rows":[]}
+
+2020-07-09 13:28:32,069 - D:\PyProjects\test\common\interfance.py[line:73] - INFO: 断言成功,实际值:LOGIN_SUCCESS 等于预期值:LOGIN_SUCCESS
+2020-07-09 13:28:32,069 - D:\PyProjects\test\common\interfance.py[line:73] - INFO: 断言成功,实际值:LOGIN_SUCCESS 等于预期值:LOGIN_SUCCESS
+2020-07-09 13:28:32,131 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>财务充值260
+2020-07-09 13:28:32,131 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>财务充值260
+2020-07-09 13:28:32,131 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>post
+2020-07-09 13:28:32,131 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>post
+2020-07-09 13:28:32,132 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://finance.parcels.tech/finance/v1/rechargeConsumeRecord/recharge
+2020-07-09 13:28:32,132 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://finance.parcels.tech/finance/v1/rechargeConsumeRecord/recharge
+2020-07-09 13:28:32,133 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"orderPrice":"260","description":"cs","attachBase64List":["iVBORw0KGgoAAAANSUhEUgAAASIAAABcCAYAAADK4bizAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3FpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQyIDc5LjE2MDkyNCwgMjAxNy8wNy8xMy0wMTowNjozOSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo4YTQ1ZjJkOC1hNmYyLTM4NDEtYjNlZS00NjMwMTc1ZTlhYWMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NkRFRkNBMTI5OTc0MTFFQThFMTNCRjdBMjhFRURDNjIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NkRFRkNBMTE5OTc0MTFFQThFMTNCRjdBMjhFRURDNjIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIyZjIzNjQ4LTI3OTYtZjk0OC05MmNlLTY3MGFlNTQwMTQzMCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4YTQ1ZjJkOC1hNmYyLTM4NDEtYjNlZS00NjMwMTc1ZTlhYWMiLz4gPC9y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"],"customerId":"2c93ece56e0d7c27016e1ab549dc0532"}'
+2020-07-09 13:28:32,133 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>b'{"orderPrice":"260","description":"cs","attachBase64List":["iVBORw0KGgoAAAANSUhEUgAAASIAAABcCAYAAADK4bizAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3FpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQyIDc5LjE2MDkyNCwgMjAxNy8wNy8xMy0wMTowNjozOSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo4YTQ1ZjJkOC1hNmYyLTM4NDEtYjNlZS00NjMwMTc1ZTlhYWMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NkRFRkNBMTI5OTc0MTFFQThFMTNCRjdBMjhFRURDNjIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NkRFRkNBMTE5OTc0MTFFQThFMTNCRjdBMjhFRURDNjIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIyZjIzNjQ4LTI3OTYtZjk0OC05MmNlLTY3MGFlNTQwMTQzMCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4YTQ1ZjJkOC1hNmYyLTM4NDEtYjNlZS00NjMwMTc1ZTlhYWMiLz4gPC9y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"],"customerId":"2c93ece56e0d7c27016e1ab549dc0532"}'
+2020-07-09 13:28:32,136 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:32,136 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:32,137 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:32,137 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:32,138 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:32,138 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:32,138 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:32,138 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:32,139 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:32,139 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:32,140 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:56 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Content-Length': '127', 'Connection': 'keep-alive'}
+2020-07-09 13:28:32,140 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:56 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Content-Length': '127', 'Connection': 'keep-alive'}
+2020-07-09 13:28:32,140 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{
+	"code":null,
+	"flag":true,
+	"msg":"充值任务已经提交,请去任务列表查看",
+	"obj":null,
+	"rows":[],
+	"total":0
+}
+2020-07-09 13:28:32,140 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====>{
+	"code":null,
+	"flag":true,
+	"msg":"充值任务已经提交,请去任务列表查看",
+	"obj":null,
+	"rows":[],
+	"total":0
+}
+2020-07-09 13:28:32,262 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>财务登出
+2020-07-09 13:28:32,262 - D:\PyProjects\test\common\interfance.py[line:109] - INFO: 请求描述====>财务登出
+2020-07-09 13:28:32,263 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>get
+2020-07-09 13:28:32,263 - D:\PyProjects\test\common\interfance.py[line:110] - INFO: 请求方式====>get
+2020-07-09 13:28:32,264 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://finance.parcels.tech/customer/v1/logout
+2020-07-09 13:28:32,264 - D:\PyProjects\test\common\interfance.py[line:111] - INFO: 请求地址====>http://finance.parcels.tech/customer/v1/logout
+2020-07-09 13:28:32,264 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>None
+2020-07-09 13:28:32,264 - D:\PyProjects\test\common\interfance.py[line:112] - INFO: 请求报文====>None
+2020-07-09 13:28:32,265 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:32,265 - D:\PyProjects\test\common\interfance.py[line:113] - INFO: 请求头====>{
+    "Content-Type": "application/json"
+}
+2020-07-09 13:28:32,265 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:32,265 - D:\PyProjects\test\common\interfance.py[line:114] - INFO: 请求参数====>""
+2020-07-09 13:28:32,266 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:32,266 - D:\PyProjects\test\common\interfance.py[line:115] - INFO: 请求体====>null
+2020-07-09 13:28:32,266 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:32,266 - D:\PyProjects\test\common\interfance.py[line:116] - INFO: Cookies====>""
+2020-07-09 13:28:32,267 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:32,267 - D:\PyProjects\test\common\interfance.py[line:117] - INFO: 接口响应状态码====>200
+2020-07-09 13:28:32,267 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:56 GMT', 'Content-Type': 'text/html', 'Content-Length': '5602', 'Last-Modified': 'Wed, 08 Jul 2020 01:30:35 GMT', 'Connection': 'keep-alive', 'ETag': '"5f0521bb-15e2"', 'Accept-Ranges': 'bytes'}
+2020-07-09 13:28:32,267 - D:\PyProjects\test\common\interfance.py[line:118] - INFO: 接口响应头为====>{'Server': 'nginx/1.12.2', 'Date': 'Thu, 09 Jul 2020 05:27:56 GMT', 'Content-Type': 'text/html', 'Content-Length': '5602', 'Last-Modified': 'Wed, 08 Jul 2020 01:30:35 GMT', 'Connection': 'keep-alive', 'ETag': '"5f0521bb-15e2"', 'Accept-Ranges': 'bytes'}
+2020-07-09 13:28:32,268 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====><!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" href=./favicon.ico type=image/x-icon><title>Parcels System</title><script src=./lib/gt.js></script><link href=http://at.alicdn.com/t/font_1530113_vbnkki1qyn.css rel=stylesheet type=text/css><link href=/static/css/chunk-00011340.d2587d2d.css rel=prefetch><link href=/static/css/chunk-024e2f4c.51e3cd52.css rel=prefetch><link href=/static/css/chunk-08f83f43.267fc8ed.css rel=prefetch><link href=/static/css/chunk-0bed8262.824a4ef8.css rel=prefetch><link href=/static/css/chunk-11c41ca4.09b7223e.css rel=prefetch><link href=/static/css/chunk-12c72f68.50aa4c00.css rel=prefetch><link href=/static/css/chunk-1387bc0d.e7ec614c.css rel=prefetch><link href=/static/css/chunk-14396131.893940b6.css rel=prefetch><link href=/static/css/chunk-1a1067a4.93796f87.css rel=prefetch><link href=/static/css/chunk-2881017a.56901671.css rel=prefetch><link href=/static/css/chunk-2aae6b70.1dc62192.css rel=prefetch><link href=/static/css/chunk-2b4ea90f.624dc3bb.css rel=prefetch><link href=/static/css/chunk-2f3cbca6.1731ab97.css rel=prefetch><link href=/static/css/chunk-382bf58c.a9da56bf.css rel=prefetch><link href=/static/css/chunk-3ee84a8a.688834bc.css rel=prefetch><link href=/static/css/chunk-497a7f78.f708c170.css rel=prefetch><link href=/static/css/chunk-49ca8cef.7e31abf7.css rel=prefetch><link href=/static/css/chunk-4ee1e05c.4fd076e0.css rel=prefetch><link href=/static/css/chunk-4f5061e4.eacd0872.css rel=prefetch><link href=/static/css/chunk-5a5af224.48f74c3b.css rel=prefetch><link href=/static/css/chunk-5b220de6.cdad3991.css rel=prefetch><link href=/static/css/chunk-5bb58970.6d5dffee.css rel=prefetch><link href=/static/css/chunk-62369311.1703feac.css rel=prefetch><link href=/static/css/chunk-63436f7b.dfa6b162.css rel=prefetch><link href=/static/css/chunk-6837fd9e.a60194b4.css rel=prefetch><link href=/static/css/chunk-6db25287.2246048b.css rel=prefetch><link href=/static/css/chunk-70035a80.8fb96920.css rel=prefetch><link href=/static/css/chunk-720fa500.8c7a04c8.css rel=prefetch><link href=/static/css/chunk-8fd07a0a.99edbb40.css rel=prefetch><link href=/static/css/chunk-92bf28fe.ba0c757b.css rel=prefetch><link href=/static/css/chunk-93a196c0.59930340.css rel=prefetch><link href=/static/css/chunk-b0e4167e.0ba80a8f.css rel=prefetch><link href=/static/css/chunk-c1cf0d36.2cc2e8cc.css rel=prefetch><link href=/static/css/chunk-d610aa8a.4fd076e0.css rel=prefetch><link href=/static/css/chunk-fe5a8006.589719e1.css rel=prefetch><link href=/static/js/chunk-00011340.7ef206f5.js rel=prefetch><link href=/static/js/chunk-024e2f4c.29ea19c1.js rel=prefetch><link href=/static/js/chunk-08f83f43.4a90c8c1.js rel=prefetch><link href=/static/js/chunk-0bed8262.f47fb2e9.js rel=prefetch><link href=/static/js/chunk-11c41ca4.5e37262c.js rel=prefetch><link href=/static/js/chunk-12c72f68.e5463571.js rel=prefetch><link href=/static/js/chunk-1387bc0d.5724505d.js rel=prefetch><link href=/static/js/chunk-14396131.4ee33e56.js rel=prefetch><link href=/static/js/chunk-1a1067a4.923d90e5.js rel=prefetch><link href=/static/js/chunk-2881017a.b17b5ced.js rel=prefetch><link href=/static/js/chunk-2aae6b70.4afc4c0a.js rel=prefetch><link href=/static/js/chunk-2b4ea90f.4c23bb64.js rel=prefetch><link href=/static/js/chunk-2d0b2168.10206229.js rel=prefetch><link href=/static/js/chunk-2d229d78.49f52f60.js rel=prefetch><link href=/static/js/chunk-2f3cbca6.bd888eb7.js rel=prefetch><link href=/static/js/chunk-382bf58c.8b57ed58.js rel=prefetch><link href=/static/js/chunk-3ee84a8a.e3f927ac.js rel=prefetch><link href=/static/js/chunk-497a7f78.733d632e.js rel=prefetch><link href=/static/js/chunk-49ca8cef.56b7b65e.js rel=prefetch><link href=/static/js/chunk-4ee1e05c.897d85ee.js rel=prefetch><link href=/static/js/chunk-4f5061e4.0f43cf02.js rel=prefetch><link href=/static/js/chunk-5a5af224.dbc4200f.js rel=prefetch><link href=/static/js/chunk-5b220de6.963b5e5e.js rel=prefetch><link href=/static/js/chunk-5bb58970.23a9f0e7.js rel=prefetch><link href=/static/js/chunk-62369311.66006916.js rel=prefetch><link href=/static/js/chunk-63436f7b.0b8f0684.js rel=prefetch><link href=/static/js/chunk-6837fd9e.4f210491.js rel=prefetch><link href=/static/js/chunk-6db25287.07b6aaa5.js rel=prefetch><link href=/static/js/chunk-70035a80.881d0e5c.js rel=prefetch><link href=/static/js/chunk-720fa500.8cfbe637.js rel=prefetch><link href=/static/js/chunk-8fd07a0a.0943feb5.js rel=prefetch><link href=/static/js/chunk-92bf28fe.cc8e30e4.js rel=prefetch><link href=/static/js/chunk-93a196c0.82c53e09.js rel=prefetch><link href=/static/js/chunk-b0e4167e.71452ea7.js rel=prefetch><link href=/static/js/chunk-c1cf0d36.204cf206.js rel=prefetch><link href=/static/js/chunk-d610aa8a.e6cb3367.js rel=prefetch><link href=/static/js/chunk-fe5a8006.beea55df.js rel=prefetch><link href=/static/css/app.0367f524.css rel=preload as=style><link href=/static/css/chunk-vendors.4df58c7d.css rel=preload as=style><link href=/static/js/app.07c649f6.js rel=preload as=script><link href=/static/js/chunk-vendors.b9278507.js rel=preload as=script><link href=/static/css/chunk-vendors.4df58c7d.css rel=stylesheet><link href=/static/css/app.0367f524.css rel=stylesheet></head><body><noscript><strong>We're sorry but Parcels System doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=/static/js/chunk-vendors.b9278507.js></script><script src=/static/js/app.07c649f6.js></script></body></html>
+2020-07-09 13:28:32,268 - D:\PyProjects\test\common\interfance.py[line:119] - INFO: 接口响应体为====><!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" href=./favicon.ico type=image/x-icon><title>Parcels System</title><script src=./lib/gt.js></script><link href=http://at.alicdn.com/t/font_1530113_vbnkki1qyn.css rel=stylesheet type=text/css><link href=/static/css/chunk-00011340.d2587d2d.css rel=prefetch><link href=/static/css/chunk-024e2f4c.51e3cd52.css rel=prefetch><link href=/static/css/chunk-08f83f43.267fc8ed.css rel=prefetch><link href=/static/css/chunk-0bed8262.824a4ef8.css rel=prefetch><link href=/static/css/chunk-11c41ca4.09b7223e.css rel=prefetch><link href=/static/css/chunk-12c72f68.50aa4c00.css rel=prefetch><link href=/static/css/chunk-1387bc0d.e7ec614c.css rel=prefetch><link href=/static/css/chunk-14396131.893940b6.css rel=prefetch><link href=/static/css/chunk-1a1067a4.93796f87.css rel=prefetch><link href=/static/css/chunk-2881017a.56901671.css rel=prefetch><link href=/static/css/chunk-2aae6b70.1dc62192.css rel=prefetch><link href=/static/css/chunk-2b4ea90f.624dc3bb.css rel=prefetch><link href=/static/css/chunk-2f3cbca6.1731ab97.css rel=prefetch><link href=/static/css/chunk-382bf58c.a9da56bf.css rel=prefetch><link href=/static/css/chunk-3ee84a8a.688834bc.css rel=prefetch><link href=/static/css/chunk-497a7f78.f708c170.css rel=prefetch><link href=/static/css/chunk-49ca8cef.7e31abf7.css rel=prefetch><link href=/static/css/chunk-4ee1e05c.4fd076e0.css rel=prefetch><link href=/static/css/chunk-4f5061e4.eacd0872.css rel=prefetch><link href=/static/css/chunk-5a5af224.48f74c3b.css rel=prefetch><link href=/static/css/chunk-5b220de6.cdad3991.css rel=prefetch><link href=/static/css/chunk-5bb58970.6d5dffee.css rel=prefetch><link href=/static/css/chunk-62369311.1703feac.css rel=prefetch><link href=/static/css/chunk-63436f7b.dfa6b162.css rel=prefetch><link href=/static/css/chunk-6837fd9e.a60194b4.css rel=prefetch><link href=/static/css/chunk-6db25287.2246048b.css rel=prefetch><link href=/static/css/chunk-70035a80.8fb96920.css rel=prefetch><link href=/static/css/chunk-720fa500.8c7a04c8.css rel=prefetch><link href=/static/css/chunk-8fd07a0a.99edbb40.css rel=prefetch><link href=/static/css/chunk-92bf28fe.ba0c757b.css rel=prefetch><link href=/static/css/chunk-93a196c0.59930340.css rel=prefetch><link href=/static/css/chunk-b0e4167e.0ba80a8f.css rel=prefetch><link href=/static/css/chunk-c1cf0d36.2cc2e8cc.css rel=prefetch><link href=/static/css/chunk-d610aa8a.4fd076e0.css rel=prefetch><link href=/static/css/chunk-fe5a8006.589719e1.css rel=prefetch><link href=/static/js/chunk-00011340.7ef206f5.js rel=prefetch><link href=/static/js/chunk-024e2f4c.29ea19c1.js rel=prefetch><link href=/static/js/chunk-08f83f43.4a90c8c1.js rel=prefetch><link href=/static/js/chunk-0bed8262.f47fb2e9.js rel=prefetch><link href=/static/js/chunk-11c41ca4.5e37262c.js rel=prefetch><link href=/static/js/chunk-12c72f68.e5463571.js rel=prefetch><link href=/static/js/chunk-1387bc0d.5724505d.js rel=prefetch><link href=/static/js/chunk-14396131.4ee33e56.js rel=prefetch><link href=/static/js/chunk-1a1067a4.923d90e5.js rel=prefetch><link href=/static/js/chunk-2881017a.b17b5ced.js rel=prefetch><link href=/static/js/chunk-2aae6b70.4afc4c0a.js rel=prefetch><link href=/static/js/chunk-2b4ea90f.4c23bb64.js rel=prefetch><link href=/static/js/chunk-2d0b2168.10206229.js rel=prefetch><link href=/static/js/chunk-2d229d78.49f52f60.js rel=prefetch><link href=/static/js/chunk-2f3cbca6.bd888eb7.js rel=prefetch><link href=/static/js/chunk-382bf58c.8b57ed58.js rel=prefetch><link href=/static/js/chunk-3ee84a8a.e3f927ac.js rel=prefetch><link href=/static/js/chunk-497a7f78.733d632e.js rel=prefetch><link href=/static/js/chunk-49ca8cef.56b7b65e.js rel=prefetch><link href=/static/js/chunk-4ee1e05c.897d85ee.js rel=prefetch><link href=/static/js/chunk-4f5061e4.0f43cf02.js rel=prefetch><link href=/static/js/chunk-5a5af224.dbc4200f.js rel=prefetch><link href=/static/js/chunk-5b220de6.963b5e5e.js rel=prefetch><link href=/static/js/chunk-5bb58970.23a9f0e7.js rel=prefetch><link href=/static/js/chunk-62369311.66006916.js rel=prefetch><link href=/static/js/chunk-63436f7b.0b8f0684.js rel=prefetch><link href=/static/js/chunk-6837fd9e.4f210491.js rel=prefetch><link href=/static/js/chunk-6db25287.07b6aaa5.js rel=prefetch><link href=/static/js/chunk-70035a80.881d0e5c.js rel=prefetch><link href=/static/js/chunk-720fa500.8cfbe637.js rel=prefetch><link href=/static/js/chunk-8fd07a0a.0943feb5.js rel=prefetch><link href=/static/js/chunk-92bf28fe.cc8e30e4.js rel=prefetch><link href=/static/js/chunk-93a196c0.82c53e09.js rel=prefetch><link href=/static/js/chunk-b0e4167e.71452ea7.js rel=prefetch><link href=/static/js/chunk-c1cf0d36.204cf206.js rel=prefetch><link href=/static/js/chunk-d610aa8a.e6cb3367.js rel=prefetch><link href=/static/js/chunk-fe5a8006.beea55df.js rel=prefetch><link href=/static/css/app.0367f524.css rel=preload as=style><link href=/static/css/chunk-vendors.4df58c7d.css rel=preload as=style><link href=/static/js/app.07c649f6.js rel=preload as=script><link href=/static/js/chunk-vendors.b9278507.js rel=preload as=script><link href=/static/css/chunk-vendors.4df58c7d.css rel=stylesheet><link href=/static/css/app.0367f524.css rel=stylesheet></head><body><noscript><strong>We're sorry but Parcels System doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=/static/js/chunk-vendors.b9278507.js></script><script src=/static/js/app.07c649f6.js></script></body></html>
+2020-07-09 13:32:10,884 - D:/PyProjects/test/common/logger.py[line:37] - INFO: test

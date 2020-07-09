@@ -1,9 +1,9 @@
 import logging
 from logging import handlers
 import os
-
+import time
 curPath = os.path.abspath(os.path.join(os.path.dirname(__file__),os.pardir))
-
+now = time.strftime("%Y-%m-%d_%H_%M_%S")
 class Logger():
     leval_relation = {
         'debug':logging.DEBUG,
@@ -13,7 +13,7 @@ class Logger():
         'crit':logging.CRITICAL
     }
 
-    def __init__(self,fileName = '{}/logs/all.log'.format(curPath),when = 'D',leval = 'info',backCount = 3,fmt = '%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s' ):
+    def __init__(self,fileName = '{}/logs/all.log.{}'.format(curPath,now),when = 'D',leval = 'info',backCount = 3,fmt = '%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s' ):
         self.logger = logging.getLogger(fileName)#实例化一个logger的filename对象
         format_str = logging.Formatter(fmt)#设置日志格式
         self.logger.setLevel(self.leval_relation.get(leval))#设置日志等级
