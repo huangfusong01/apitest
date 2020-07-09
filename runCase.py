@@ -1,6 +1,6 @@
-#pytest执行入口
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+#pytest执行入口
 import HTMLTestReportCN
 import smtplib
 #import pytest
